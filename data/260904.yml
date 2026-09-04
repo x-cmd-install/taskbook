@@ -7,7 +7,7 @@ about:
   head: 49b760a
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T19:55:29Z
+  collectedAt: 2026-09-04T20:46:38Z
 timeline:
   created: 2018-02-12
   lastCommit: 2025-11-03
@@ -80,6 +80,34 @@ total:
   openIssue: 78
   commit: 245
 ---
+path: /home/runner/.x-repo/github.com/klaussinani/taskbook
+collectedAt: 2026-09-04T20:46:39Z
+loc:
+  JavaScript:
+    code: 1184
+    comments: 0
+    blanks: 293
+    files: 11
+  Json:
+    code: 59
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 37
+    comments: 0
+    blanks: 5
+    files: 2
+  Markdown:
+    code: 0
+    comments: 3387
+    blanks: 1551
+    files: 17
+total:
+  code: 1411
+  comments: 3387
+  blanks: 1849
+  files: 31
 ---
 date: "2026-08-24"
 repo:
