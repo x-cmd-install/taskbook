@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:54:42Z
+  collectedAt: 2026-09-11T18:53:51Z
 timeline:
   created: 2018-02-12
   lastCommit: 2025-11-03
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 9345
   watcher: 127
-  fork: 395
+  fork: 394
   release: 4
   contributor: 29
   pullRequest: 86
@@ -83,7 +83,7 @@ total:
   commit: 245
 ---
 path: /home/runner/.x-repo/github.com/klaussinani/taskbook
-collectedAt: 2026-09-11T05:54:42Z
+collectedAt: 2026-09-11T18:53:53Z
 loc:
   JavaScript:
     code: 1184
