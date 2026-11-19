@@ -26,8 +26,8 @@
   srcname: taskbook-bin
   binname: taskbook-bin
   visiblename: taskbook-bin
-  version: 1.5.0
-  origversion: 1.5.0-1
+  version: 1.5.1
+  origversion: 1.5.1-1
   status: newest
   summary: Tasks, boards & notes for the command-line habitat (Client)
   maintainers:
@@ -38,8 +38,8 @@
   srcname: taskbook-bin
   binname: taskbook-server-bin
   visiblename: taskbook-server-bin
-  version: 1.5.0
-  origversion: 1.5.0-1
+  version: 1.5.1
+  origversion: 1.5.1-1
   status: newest
   summary: Tasks, boards & notes for the command-line habitat (Server)
   maintainers:
